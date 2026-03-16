@@ -1,0 +1,30 @@
+# ─────────────────────────────────────────────────────────────────
+#  NCR Ride Bookings — Python Dependencies
+#  Install with: pip install -r requirements.txt
+#
+#  ⚠️  scikit-learn is pinned to 1.7.1 — the version used to train
+#      and serialize all .pkl model files in saved_models/.
+#      Changing this version will break joblib deserialization.
+# ─────────────────────────────────────────────────────────────────
+
+# Core data science
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine learning — PINNED (must match saved_models/ training env)
+scikit-learn==1.7.1
+xgboost>=2.0.0
+
+# Model serialization
+joblib>=1.2.0
+
+# Dashboard & visualization
+streamlit>=1.30.0
+plotly>=5.18.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Notebook environment
+jupyter>=1.0.0
+nbconvert>=7.0.0
+ipykernel>=6.0.0
