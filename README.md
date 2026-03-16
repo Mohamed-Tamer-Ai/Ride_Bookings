@@ -111,8 +111,8 @@ ncr-ride-bookings/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/ncr-ride-bookings.git
-cd ncr-ride-bookings
+git clone https://github.com/Mohamed-Tamer-Ai/Ride_Bookings
+cd Ride_Bookings
 ```
 
 ### 2. Create a virtual environment (recommended)
