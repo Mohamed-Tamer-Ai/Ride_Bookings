@@ -27,10 +27,6 @@ This end-to-end data science project analyses **150,000 ride bookings** from the
 | 2 | **Driver Rating** | Regression (1–5 ★) | XGBoost |
 | 3 | **Customer Rating** | Regression (1–5 ★) | XGBoost |
 
-The project consists of two deliverables:
-- **`Modeling_Notebook.ipynb`** — full EDA, feature engineering, model training, evaluation, and serialization
-- **`app.py`** — an interactive Streamlit dashboard with an Analysis page and a real-time Prediction page
-
 ---
 
 ## ✨ Features
