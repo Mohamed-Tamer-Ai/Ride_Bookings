@@ -309,11 +309,13 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 👤 Author
 
-**Mohamed Tamer**<br>
-**Yousif Hisham**
+**Mohamed Tamer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-tamer-b59329347/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mohamed-Tamer-Ai)
+
+<br>
+**Yousif Hisham**
 
 ---
 
