@@ -322,7 +322,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousif-hisham-98baa2292/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/YousifHisham-tech)
 
-**Sara Muhammed Abdulrahman**
+**Sara Muhammed**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-muhammad-385511347/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/sara-abdulrahman)
 
