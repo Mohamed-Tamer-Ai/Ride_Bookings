@@ -310,24 +310,28 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## 👤 Author
 
 **Mohamed Tamer**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-tamer-b59329347/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mohamed-Tamer-Ai)
 
 <br>
 
 **Yousif Hisham**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousif-hisham-98baa2292/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/YousifHisham-tech)
 
 <br>
 
 **Sara Muhammed**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-muhammad-385511347/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/sara-abdulrahman)
 
 <br>
 
 **Jana Mostafa**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jana-mostafa-2b2a5634b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/janamostafa-tech)
 
