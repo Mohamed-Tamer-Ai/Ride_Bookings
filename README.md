@@ -335,6 +335,10 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jana-mostafa-2b2a5634b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/janamostafa-tech)
 
+**Mariam Emad**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-farag-9692a3350/)
+
 <div align="center">
 
 
